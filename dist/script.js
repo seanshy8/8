@@ -1,0 +1,1 @@
+document.write("HELLO我是同性戀 ")
